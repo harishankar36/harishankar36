@@ -89,8 +89,8 @@ Expanding API automation portfolio
 
 📫 Connect With Me
 
-LinkedIn: add your link
+LinkedIn: https://www.linkedin.com/in/harishankar-k-a5a778170/
 
-Email: add your email
+Email: harishankar.qa@gmail.com
 
 Location: Mississauga, Canada
