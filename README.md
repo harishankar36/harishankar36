@@ -1,4 +1,4 @@
-🌟 Hey, I'm Hari Shankar!
+🌟 Hey, I'm HariShankar!
 SDET | QA Automation Engineer | Azure Cloud Enthusiast
 
 I’m passionate about building reliable automation frameworks, testing complex systems, and continuously learning modern cloud & DevOps technologies. My goal is to deliver high-quality automation solutions and grow as a strong SDET in Canada.
