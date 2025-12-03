@@ -7,7 +7,7 @@ I’m passionate about building reliable automation frameworks, testing complex 
 
 💼 5 years of experience in Test Automation & Quality Engineering
 
-🤖 Skilled in Selenium, Java, TestNG, Cucumber BDD, Postman, JMeter
+🤖 Skilled in Selenium, Java, Cypress, Playwright, TestNG, Cucumber BDD, Postman, JMeter
 
 ☁️ Currently preparing for AZ-104 (Azure Administrator)
 
