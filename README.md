@@ -1,16 +1,96 @@
-## Hi there 👋
+🌟 Hey, I'm Hari Shankar!
+SDET | QA Automation Engineer | Azure Cloud Enthusiast
 
-<!--
-**harishankar36/harishankar36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building reliable automation frameworks, testing complex systems, and continuously learning modern cloud & DevOps technologies. My goal is to deliver high-quality automation solutions and grow as a strong SDET in Canada.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 5 years of experience in Test Automation & Quality Engineering
+
+🤖 Skilled in Selenium, Java, TestNG, Cucumber BDD, Postman, JMeter
+
+☁️ Currently preparing for AZ-104 (Azure Administrator)
+
+⚙️ Experienced with CI/CD using Jenkins & GitHub Actions
+
+🧪 Passionate about automation, clean code, scalable frameworks & API testing
+
+🎯 Open to SDET / QA Automation Engineer roles in Canada
+
+📍 Based in Mississauga, Canada
+
+🚀 Tech Stack
+Automation & QA
+
+Selenium WebDriver
+
+TestNG / JUnit
+
+Cucumber (BDD)
+
+REST Assured
+
+Postman
+
+JMeter
+
+Programming
+
+Java
+
+JavaScript (Beginner)
+
+Cloud
+
+Azure (VMs, Storage, IAM, Defender, Policies)
+
+AWS Basics (EC2, S3, IAM)
+
+DevOps & Tools
+
+Jenkins
+
+Git / GitHub
+
+Maven
+
+Swagger
+
+MySQL
+
+Jira
+
+📂 Featured Projects
+🔹 OrangeHRM Automation (Selenium + TestNG + POM)
+
+Complete automation suite for HRM workflows including login, admin, PIM & leave module.
+
+🔹 HRM API Automation (REST Assured + Postman)
+
+API testing suite for employee CRUD operations, integrated with environment configs.
+
+🔹 OpenCart UI Automation (Cucumber BDD + Selenium)
+
+E-commerce flow automation: login, search, add to cart, checkout.
+
+🔹 Azure CI/CD Pipeline for Automation Tests
+
+Automation suite executed on Azure VM via Jenkins/GitHub Actions.
+
+📘 Currently Working On
+
+Building Project 1: OrangeHRM Automation Framework
+
+Implementing TestNG reports, retry logic, utilities, page objects
+
+Preparing for AZ-104
+
+Expanding API automation portfolio
+
+📫 Connect With Me
+
+LinkedIn: add your link
+
+Email: add your email
+
+Location: Mississauga, Canada
